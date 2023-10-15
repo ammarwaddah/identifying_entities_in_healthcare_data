@@ -48,11 +48,11 @@ We need to do few preprocessing while accessing the dataset we will explore that
 
 ## Evaluation
 
-1. Value Prediction.
+1. Confusion Matrix.
 2. Cross-Validation.
 3. Classification report.
 4. Accuracy Score.
-5. Confusion Matrix.
+5. Sentence (Value) Prediction.
 
 ## Technologies
 * Programming language: Python.
@@ -111,7 +111,7 @@ conda install -c conda-forge tqdm\
 * Deep EDA (POS, NER).
 * Vectorizing (Dict Vectorizer).
 * Modelling (CRF, Perceptron, SVC, XGBoost, SGD, Voting, Multinomial NB, Gradient Boosting, Logistic Regression, Ridge, Passive Aggressive, KNN classifiers).
-* Evaluating and making analysis of ML models (Confusion Matrix, Classification report, Cross-validation, Accuracy Score, and Value Prediction).
+* Evaluating and making analysis of ML models (Confusion Matrix, Classification report, Cross-validation, Accuracy Score, and Value (Sentence) Prediction).
 * Parameters Choosing (Halving Grid Search CV).
 
 ## Run Example
