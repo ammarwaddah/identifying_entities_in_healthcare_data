@@ -16,7 +16,7 @@ Using Machine Learning, Data Science and NLP techniques to identifying entities 
 
 ## Introduction
 The field of Natural Language Processing (NLP) has introduced several effective and important applications in the real life, and its results have yielded many applications, including Named Entity Recognition (NER) applications and played a major role in the medical field by identifying diseases and determining treatment methods by extracting information from large amounts of data that contain diseases and treatment methods, and using Artificial Intelligence to distinguish them through pre-processing methods after appropriate analysis of the data and then optimal implementation of Artificial Intelligence models in the Named Entity Recognition (NER).
-Hence, I present to you my Named Entity Recognition project (Identifying Entities in Healthcare Data). In this project I put my suggestions for solving it with the best possible ways and the current capabilities using Machine Learning, DatSa Science, and NLP.\
+Hence, I present to you my Named Entity Recognition project (Identifying Entities in Healthcare Data). In this project I put my suggestions for solving it with the best possible ways and the current capabilities using Machine Learning, Data Science, and NLP.\
 Hoping to improve it gradually in the coming times.
 
 ## Problem Statement
