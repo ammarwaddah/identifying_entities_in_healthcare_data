@@ -36,15 +36,15 @@ By observing the requirement, it is clearly visible that we have to process the 
 **General info about the dataset:**
 * About:
 
-We have four data file for this activity to proceed, they are
+We have four data file for this activity to proceed, they are:
 
-Train Sentence Dataset
-Train Label Dataset
-Test Sentence Dataset
-Test Label Dataset
+1. Train Sentence Dataset.
+2. Train Label Dataset.
+3. Test Sentence Dataset.
+4. Test Label Dataset.
 
 Sentence file contains all interactions between patients and doctor, and Label file contains all entity tags for particular words arranged as per sentence.
-We need to do few preprocessing while accessing the dataset we will explore that in further steps
+We need to do few preprocessing while accessing the dataset we will explore that in further steps.
 
 ## Evaluation
 
